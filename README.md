@@ -12,7 +12,7 @@ I’m a creative front-end developer passionate about crafting user-friendly dig
 </p>
 
 <p>
-My journey into <strong>software engineering</strong> began out of pure curiosity — I’ve always wanted to understand how apps and websites actually work behind the scenes. That curiosity soon grew into a passion for crafting clean, user-friendly interfaces that make technology accessible to everyone.
+My journey into <strong>software engineering</strong> began out of pure curiosity. I’ve always wanted to understand how apps and websites actually work behind the scenes. That curiosity soon grew into a passion for crafting clean, user-friendly interfaces that make technology accessible to everyone.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ I love transforming ideas into <strong>visual, interactive experiences</strong> 
 ## 🌍 My Vision in Tech
 
 <p>
-My vision is to become a <strong>creative front-end developer</strong> who builds sleek, user-centered web experiences — and ultimately lead a <strong>tech company</strong> that drives design-driven innovation across <strong>Africa</strong>.
+My vision is to become a <strong>creative front-end developer</strong> who builds sleek, user-centered web experiences, and ultimately lead a <strong>tech company</strong> that drives design-driven innovation across <strong>Africa</strong>.
 </p>
 
 <p>
